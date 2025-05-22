@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://kaiyi.alexsab.ru',
+	site: 'https://kaiyi-krd.ru',
 	base: "/"
 });
