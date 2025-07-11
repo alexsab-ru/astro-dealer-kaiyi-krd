@@ -34,7 +34,7 @@ concurrency:
 jobs:
   determine_env:
 
-    if: ${{ vars.UPDATE_CARS == 'true' }}
+    if: ${{ vars.UPDATE_CARS && vars.UPDATE_CARS == 'true' }}
 
     runs-on: ubuntu-latest
     outputs:
