@@ -1,0 +1,14 @@
+[
+  {
+    "brand": "Kaiyi",
+    "model": "E5",
+    "price": 1400000,
+    "benefit": 270000
+  },
+  {
+    "brand": "Kaiyi",
+    "model": "X7 Kunlun",
+    "price": 2250000,
+    "benefit": 0
+  }
+]
